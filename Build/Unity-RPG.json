@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Unity-RPG.data.unityweb",
+"asmCodeUrl": "Unity-RPG.asm.code.unityweb",
+"asmMemoryUrl": "Unity-RPG.asm.memory.unityweb",
+"asmFrameworkUrl": "Unity-RPG.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
